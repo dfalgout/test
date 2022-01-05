@@ -5,6 +5,9 @@
   "repository": "https://github.com/dfalgout/test.git",
   "author": "lambda <dustinafalgout@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo TEST!!"
+  },
   "dependencies": {
     "express": "^4.17.2"
   }
